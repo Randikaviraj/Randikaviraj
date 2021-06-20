@@ -2,11 +2,11 @@
 ### Hi there 👋, my name is Randika
 ![](https://lh3.googleusercontent.com/proxy/K7Bu4IiR0Dgzg1QdOmyF8rAWSTmMM1lZEcOHL-zurxrISCPWlEHvLITKJaO9lL57L0B9jXHHWWYg2fV_-Ei2bHUTyA)
 
- I am a Computer Engineering undergraduate passionate about embedded systems, system engineering, software engineering, backend technologies, and machine learning. A highly capable leader, having led multiple Senior class projects to completion. Proficient in a range of modern technologies.
+ I am a Computer Engineering undergraduate passionate about embedded systems, system engineering, software engineering, and backend technologies. A highly capable leader, having led multiple Senior class projects to completion. Proficient in a range of modern technologies.
 
 
 
-- 🔭 I’m currently working on Vibhawa Radio 
+- 🔭 I’m currently working on Saloon management system
 - 🌱 I’m currently learning Rust 
 - 📫 How to reach me: randikavirajmax@gmail.com 
 
