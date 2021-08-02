@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Randika
-![](https://lh3.googleusercontent.com/proxy/K7Bu4IiR0Dgzg1QdOmyF8rAWSTmMM1lZEcOHL-zurxrISCPWlEHvLITKJaO9lL57L0B9jXHHWWYg2fV_-Ei2bHUTyA)
+![](https://drive.google.com/file/d/1gF5DWHTWYVMdgAEyivSB-ra70yBWJtGA/view?usp=sharing)
 
  I am a Computer Engineering undergraduate passionate about embedded systems, system engineering, software engineering, and backend technologies. A highly capable leader, having led multiple Senior class projects to completion. Proficient in a range of modern technologies.
 
