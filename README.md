@@ -5,7 +5,7 @@
 <a href="https://drive.google.com/uc?export=view&id=1gF5DWHTWYVMdgAEyivSB-ra70yBWJtGA"><img src="https://drive.google.com/uc?export=view&id=1gF5DWHTWYVMdgAEyivSB-ra70yBWJtGA" width="400" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
  ---
- I am a Computer Engineering undergraduate passionate about embedded systems, system engineering, software engineering, and backend technologies. A highly capable leader, having led multiple Senior class projects to completion. Proficient in a range of modern technologies.
+ I am a Computer Engineering undergraduate passionate about processor designing with HDLs, embedded systems, system engineering, software engineering, and backend technologies. A highly capable leader, having led multiple Senior class projects to completion. Proficient in a range of modern technologies.
 
 
 
