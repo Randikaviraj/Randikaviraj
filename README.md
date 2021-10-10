@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on Saloon management system
+- 🔭 I’m currently working on Appoiment Sheduling Platform
 <!-- - 🌱 I’m currently learning Rust  -->
 - 📫 How to reach me: randikavirajmax@gmail.com 
 ---
