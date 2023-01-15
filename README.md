@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on Appoiment Sheduling Platform
+- 🔭 I’m currently working on Risc V SuperScalar Processor
 <!-- - 🌱 I’m currently learning Rust  -->
 - 📫 How to reach me: randikavirajmax@gmail.com 
 ---
